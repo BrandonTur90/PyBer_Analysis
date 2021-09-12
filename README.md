@@ -26,7 +26,9 @@ Urban cities definitely make the most revenue in total, but not per ride or driv
 be because there were only 1,625 rides but over 2,405 drivers in urban cites, which means
 prices have to go down to compete between the over-abundance of drivers. It might be 
 worth looking into ways of either bumping up rider numbers to increase fare prices,
-or cutting driver numbers. Another factor into fare prices is that with the current data it's 
-unkown how far each driver has to take riders. In cities it could be mainly short trips, whereas
-in rural areas it could be much longer distances, and therefore higher fares. It would be worth looking
-into tracking how far drivers go per ride to account for this in future analysis. 
+or cutting driver numbers. Also, if you look at suburban data, there seems to be a good ratio
+of drivers to rides, so in future analysis it might be worth calculating the average ratio of drivers
+to rides to make the afforementioned adjustments. Another factor into fare prices is that with the
+current data it's unkown how far each driver has to take riders. In cities it could be mainly 
+short trips, whereas in rural areas it could be much longer distances, and therefore higher fares. 
+It would be worth looking into tracking how far drivers go per ride to account for this in future analysis.
